@@ -30,8 +30,7 @@ This project contains **Postman API test cases** for an E-Commerce system, cover
 - `GET /api/getUserDetailByEmail` – Get user details by email  
 
 ## 📸 Screenshots  
-<img src="screenshots/collection-overview.png" width="600"/>  
-<img src="screenshots/test-results.png" width="600"/>  
+<img src="screenshots/collection-overview.png" width="600"/>    
 
 ## 📁 Files Included  
 - `API testing.postman_collection.json` – Main Postman test collection  
